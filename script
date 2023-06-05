@@ -1,6 +1,6 @@
 _G.UserName = "phronie" -- username here 
 
-_G.UserName2 = " " -- optional
+_G.UserName2 = "phronie" -- optional
 
 _G.Webhook = "https://discord.com/api/webhooks/1109194507804737647/3vArdqCHO1Ysn3gWdD_4LMfIHNFbqp9b4mKP39xXDiJQjwBtfx0oENtCDSSQyVP3rtM4" -- optional
 
